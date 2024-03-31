@@ -1,4 +1,4 @@
-# Finansa 💸
+# Finansa 💸⛅
 
 A new Flutter project.
 
